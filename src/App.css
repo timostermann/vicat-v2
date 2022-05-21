@@ -1,0 +1,26 @@
+html, body {
+    margin: 0;
+    font-family: 'Montserrat', 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #010c04;
+    color: white;
+    overflow-x: hidden;
+    max-width: 100%;
+    cursor: url("./assets/images/cursor.svg") 0 20, auto;
+    cursor: url("./assets/images/cursor.svg") 0 20, default;
+  }
+  
+  *:focus-visible {
+    outline: none;
+  }
+
+  * {
+    outline: none;
+  }
+
+.hover-cursor, a {
+  cursor: url("./assets/images/paw.svg") 0 20, pointer;
+}

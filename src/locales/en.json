@@ -1,0 +1,52 @@
+{
+  "faq": [
+    {
+      "question": "Whats up with the 7?",
+      "answer": "As you know, we are a Coin **Made in Germany** and in Germany the folklore saying is that cats have seven lives. This has its origin in the fact that cats are very nimble and can react quickly to dangerous situations that other animals can not easily escape.\n\nBy the way: in Great Britain cats are not satisfied with seven lives, there they have nine!"
+    },
+    {
+      "question": "Who is the cat?",
+      "answer": "The cat is called **Toulouse** and is a British Shorthair.\n\nFun fact: Toulouse actually exists. She is the cat of one of our founding members and served as the initial logo with a photo of her head. The logo was only replaced when we could afford a designer."
+    },
+    {
+      "question": "Where can I get a ViCat wallet?",
+      "answer": "Use this [link](https://app.vite.net/webview/vitex_invite_outer/index.html?vitex_invite_code=2431814813) and then either scan the QR Code to download the Vite App, or click 'Accept Invitation' to go to the Web Wallet. There are iOS and Anroid Versions as well as Web and Desktop."
+    },
+    {
+      "question": "How do I get free ViCat?",
+      "answer": "Be part of our **ViCat-Pack**. ViCat rewards are all around you. You just need to be part of our community. Create memes, add and tag us, help us grow, enter contests, spread the catlove all around the world, or just be creative and help us to make the world a catfriendly place."
+    },
+    {
+      "question": "And what if I don't have time to actively support ViCat?",
+      "answer": "No problem, we have a solution for that too. You can use our [faucet](https://faucet.vicat.tech) to grab **free ViCat once a day**. The amount of ViCat distributed can vary and depends on the rush on the faucet."
+    },
+    {
+      "question": "Do you have a SBP (Super Node / Snapshot Block Producer)?",
+      "answer": "Of course, thanks to the successful presale we are able to run our own SBP. We distribute half of the SBP rewards to the community. The other half is used to cover our running costs and to finance marketing measures and further developments. We have some exciting things planned, so stay tuned!"
+    },
+    {
+      "question": "How can I vote for your SBP? Does this put me in any disadvantages?",
+      "answer": "First things first: you have of course **no disadvantages by voting for our SBP**. On the contrary, by voting you will receive Vite and ViCat for free and automatically, based on your voting shares, which you can freely dispose of.\n\nYou can vote for our SBP by opening the Vite Wallet app and tapping on your Vite to go to the transaction overview. There you will find a button **'Vote'**. On the following page you can search for  __ViCat__ and tap on 'Vote'.\n\n By confirming with PoW you vote from now on completely without obligation and free of charge for our SBP and thus support the complete ViCat community in their work."
+    },
+    {
+      "question": "Can I purchase/sell ViCat?",
+      "answer": "Sure, no problem. Simce February 27, 2022, ViCat is tradable on the decentralized exchange [ViteX](https://x.vite.net/trade?symbol=VICAT-000_VITE). (The price follows supply and demand and is not controlled by us.)"
+    },
+    {
+      "question": "What can I do with ViCat? Can I pay somewhere with it?",
+      "answer": "You can't pay with it yet. We are planning a community project in the near future where users will probably be able to pay with ViCat. However, it is still too early to make any concrete announcements there.\n\nIn addition, **your ViCat will increase the rewards you get from our SBP** when voting: your ViCat will be converted to Vite, based on the current ViCat / Vite exchange rate, and increase your votes by up to **20%**!."
+    },
+    {
+      "question": "I don't see any ViCat in my wallet?",
+      "answer": "To see ViCat in your Vite Wallet app, you need to add the coin first. You can do this easily by tapping the **+ button** on the overview page and simply selecting **VICAT-000** in the list that follows. Your wallet should then display your current ViCat balance."
+    },
+    {
+      "question": "What about the Team Lock?",
+      "answer": "We locked our initial shares of the Core Team on February 25, 2022. We are allowed to take off 1.5b ViCat from the [smartcontract](https://vitcscan.thomiz.dev/address/vite_43f081186fbe053d745d01ab8ac7ab9337e49c55b798f850b8) from the beginning. Based on this, the amount we can withdraw will increase by 2.5% every week, so that we will be able to dispose of all our ViCat after approximately 139 weeks."
+    },
+    {
+      "question": "Do you have a GitHub repo?",
+      "answer": "Of course. You can find the repo [here](https://github.com/vicatcoin). There you can see all our public code. By the way: suggestions for improvement or ideas are welcome!"
+    }
+  ]
+}
